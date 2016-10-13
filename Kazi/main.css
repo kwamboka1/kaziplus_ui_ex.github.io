@@ -47,6 +47,7 @@ input, textarea, select, label {
 	font-weight:bold;
 	outline: none;
 	border: none;
+	text-align: center;
 }
 
 .kazi{
